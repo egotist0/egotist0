@@ -17,9 +17,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 - ⚡ Fun fact: **Monster Hunter, Movie**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egotist0-Wong)](https://github.com/egotist0-Wong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egotist0)](https://github.com/egotist0/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egotist0-Wong&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egotist0&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
