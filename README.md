@@ -19,7 +19,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egotist0)](https://github.com/egotist0/github-readme-stats)
 
-[![egotist0's GitHub stats](https://github-readme-stats.vercel.app/api?username=egotist0)](https://github.com/anuraghazra/github-readme-stats)
+[![egotist0's GitHub stats](https://github-readme-stats.vercel.app/api?username=egotist0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
