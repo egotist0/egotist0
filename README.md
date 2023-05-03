@@ -8,7 +8,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 
 # I'm Ge Jiang <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=egotist0&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight&hide=JavaScript,HTML, CSS' width='400px' height='195px'>
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=egotist0&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight' width='400px' height='195px'>
 
 - 🔭 I’m currently working on **Naive Systems**
 - 🌱 I’m currently learning **Databases && Static Code Analyze**
