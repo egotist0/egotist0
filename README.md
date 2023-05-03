@@ -8,7 +8,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 
 # I'm Ge Jiang <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=egotist&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight' width='400px'>
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=egotist0&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight' width='400px'>
 
 - 🔭 I’m currently working on **Naive Systems**
 - 🌱 I’m currently learning **Databases && Static Code Analyze**
@@ -19,8 +19,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 - ⚡ Fun fact: **Monster Hunter, Movie**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egotist0)](https://github.com/egotist0/github-readme-stats)
-
 [![egotist0's GitHub stats](https://github-readme-stats.vercel.app/api?username=egotist0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Skill Set  
