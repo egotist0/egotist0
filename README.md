@@ -9,11 +9,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 # I'm Ge Jiang <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **Naive Systems**
-- 🌱 I’m currently learning **Databases && AST**
+- 🌱 I’m currently learning **Databases && Static Code Analyze**
 - 👯 Currently working in **Shanghai, China**
 - 🤔 I love **Reading, photography**
-- 💬 Ask me about Databases, Compliers and my projects
-- 📫 How to reach me: **egotist@sjtu.edu.cn**
+- 💬 Ask me about Databases, Compliers' Frontend and my projects
+- 📫 How to reach me: **chellyreol@gmail.com**
 - ⚡ Fun fact: **Monster Hunter, Movie**
 
 # About My Github
