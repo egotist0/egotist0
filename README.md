@@ -70,3 +70,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 </td></tr></table>  
 
 <br/>  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egotist0&repo=SLM-DB&show_owner==True&theme=tokyonight)](https://github.com/egotist0/SLM-DB)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egotist0&repo=Simple-Sqlite&show_owner==True&theme=tokyonight)](https://github.com/egotist0/Simple-Sqlite)
+
