@@ -13,10 +13,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 - 🔭 I’m currently working on **Naive Systems**
 - 🌱 I’m currently learning **Databases && Compiler Frontend**
 - 👯 Currently working in **Shanghai, China**
-- 🤔 I love **Reading, photography**
-- 💬 Ask me about Databases, Compliers' Frontend and my projects
+- 🤔 I love **Badminton, photography**
+- 💬 Ask me about my projects
 - 📫 How to reach me: **chellyreol@gmail.com**
-- ⚡ Fun fact: **Monster Hunter, Movie**
+- ⚡ Fun Game fact: **Monster Hunter, Zelda**
 
 # About My Github
 [![egotist0's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egotist0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
