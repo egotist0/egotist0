@@ -11,7 +11,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 <img align='right' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egotist0&layout=compact&hide=javascript,html,CSS,JAVA,SCSS&langs_count=6&theme=tokyonight' width='400px' height='195px'>
 
 - 🔭 I’m currently working on **Naive Systems**
-- 🌱 I’m currently learning **Databases && Compiler Frontend**
+- 🌱 I’m currently learning **Databases && RedisBloom && kvrocks**
 - 👯 Currently working in **Shanghai, China**
 - 🤔 I love **Badminton, photography**
 - 💬 Ask me about my projects
