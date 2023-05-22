@@ -13,7 +13,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 - 🔭 I’m currently working on **Naive Systems**
 - 🌱 I’m currently learning **RedisBloom && kvrocks**
 - 👯 Currently working in **Shanghai, China**
-- 🤔 I love **Badminton, photography**
+- 🤔 I love **Badminton, soccer**
 - 💬 Ask me about my projects
 - 📫 How to reach me: **chellyreol@gmail.com**
 - ⚡ Fun Game fact: **Monster Hunter, Zelda**
