@@ -17,7 +17,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 - ⚡ Fun Game fact: **Monster Hunter, Zelda**
 
 # About My Github
-[![egotist0's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egotist0&theme=radical&&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) <img align='right' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egotist0&layout=compact&hide=javascript,html,CSS,JAVA,SCSS,MAKEFILE&langs_count=6&theme=tokyonight' width='650px' height='195px'>
+[![egotist0's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egotist0&theme=radical&&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) <img align='right' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egotist0&layout=compact&hide=javascript,html,CSS,JAVA,SCSS,MAKEFILE&langs_count=6&theme=tokyonight' width='600px' height='195px'>
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
