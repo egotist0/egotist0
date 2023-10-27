@@ -6,7 +6,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visitor
 
 
-# I'm Ge Jiang <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm Django <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **Naive Systems**
 - 🌱 I’m currently learning **RedisBloom && K-V Storage**
