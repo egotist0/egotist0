@@ -8,9 +8,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/egotist0/count.svg) visito
 
 # I'm Django <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **Naive Systems**
-- 🌱 I’m currently learning **RedisBloom && K-V Storage**
-- 👯 Currently working in **ATL, U.S.**
+- 🔭 I’m currently working on **Moloco**
+- 🌱 I’m currently learning **Data infra && K-V Storage**
+- 👯 Currently working in **CA, U.S.**
 - 🤔 I love **Badminton, soccer**
 - 💬 Ask me about my projects
 - 📫 How to reach me: **chellyreol@gmail.com**
